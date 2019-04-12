@@ -1,6 +1,6 @@
 # player-session-service
 
-Service functionality:
+## Service functionality:
 * API for receiving event batches (1-100000 events / batch)
 * API for fetching session starts for the last X (X is defined by the user) hours for each country
 * API for fetching last (up to twenty) complete sessions for a given player
